@@ -7,6 +7,10 @@
         margin: 10px; /* Add margin as needed */
     }
 </style>
+.logo img {
+  width: 200px; /* Set the desired width for your logo */
+  height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+}
 body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
